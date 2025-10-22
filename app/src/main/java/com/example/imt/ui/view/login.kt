@@ -7,6 +7,12 @@ import androidx.compose.ui.tooling.preview.Preview
 
 @Composable
 fun login(){
+    //Login
+    Column (){
+        Text(
+            text = "Pangeran Jember"
+        )
+    }
     Text(
         text = "halo semuanya aku jae"
     )
